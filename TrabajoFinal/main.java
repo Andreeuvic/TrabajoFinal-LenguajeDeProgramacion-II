@@ -11,7 +11,7 @@ public class main {
         ArrayList<Cliente> clientes = new ArrayList<Cliente>();
 
         Cliente cliente1 = new Cliente("Mario Gonzales", "77889900", "mario00");
-        Cliente cliente2 = new Cliente("Jesus Izique", "77889901", "jesus01");
+        Cliente cliente2 = new Cliente("Jesus Isique", "77889901", "jesus01");
         Cliente cliente3 = new Cliente("Andre Quispe", "77889902", "andre02");
         Cliente cliente4 = new Cliente("Piero Perez", "77889903", "piero03");
         Cliente cliente5 = new Cliente("Mikella Garcia", "77889904", "mikella04");
